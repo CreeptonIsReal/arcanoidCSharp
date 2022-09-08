@@ -1,0 +1,13 @@
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\ArcanoidForm\bin\Release\ArcanoidForm.exe.config
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\ArcanoidForm\bin\Release\ArcanoidForm.exe
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\ArcanoidForm\bin\Release\ArcanoidForm.pdb
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\ArcanoidForm\bin\Release\Arcanoid.dll
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\ArcanoidForm\bin\Release\Arcanoid.pdb
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\ArcanoidForm\obj\Release\ArcanoidForm.csproj.AssemblyReference.cache
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\ArcanoidForm\obj\Release\ArcanoidForm.Form1.resources
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\ArcanoidForm\obj\Release\ArcanoidForm.Properties.Resources.resources
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\ArcanoidForm\obj\Release\ArcanoidForm.csproj.GenerateResource.cache
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\ArcanoidForm\obj\Release\ArcanoidForm.csproj.CoreCompileInputs.cache
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\ArcanoidForm\obj\Release\ArcanoidForm.csproj.CopyComplete
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\ArcanoidForm\obj\Release\ArcanoidForm.exe
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\ArcanoidForm\obj\Release\ArcanoidForm.pdb

@@ -1,0 +1,5 @@
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\Arcanoid\bin\Release\Arcanoid.dll
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\Arcanoid\bin\Release\Arcanoid.pdb
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\Arcanoid\obj\Release\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\Arcanoid\obj\Release\Arcanoid.dll
+C:\Users\Kriptik\Desktop\lab_6\Arcanoid\Arcanoid\obj\Release\Arcanoid.pdb
