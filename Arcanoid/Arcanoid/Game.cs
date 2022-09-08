@@ -387,7 +387,7 @@ namespace Arcanoid
                 {
                     if (_map[i, j] == 1)//отрисовка блоков
                     {
-
+                        e.Graphics.FillRectangle(bBlock, j * _mapSizeBlockW, i * _mapSizeBlockH, _mapSizeBlockW, _mapSizeBlockH);
                         e.Graphics.DrawRectangle(p, j * _mapSizeBlockW, i * _mapSizeBlockH, _mapSizeBlockW, _mapSizeBlockH);
 
                     }

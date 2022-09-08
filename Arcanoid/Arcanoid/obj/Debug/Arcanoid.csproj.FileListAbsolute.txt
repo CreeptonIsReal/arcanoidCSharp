@@ -46,3 +46,11 @@ C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\De
 C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.dll
 C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.pdb
 C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\arcanoidc#\Arcanoid\Arcanoid\bin\Debug\Arcanoid.dll
+C:\arcanoidc#\Arcanoid\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\arcanoidc#\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\arcanoidc#\Arcanoid\Arcanoid\obj\Debug\Arcanoid.Game.resources
+C:\arcanoidc#\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\arcanoidc#\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\arcanoidc#\Arcanoid\Arcanoid\obj\Debug\Arcanoid.dll
+C:\arcanoidc#\Arcanoid\Arcanoid\obj\Debug\Arcanoid.pdb

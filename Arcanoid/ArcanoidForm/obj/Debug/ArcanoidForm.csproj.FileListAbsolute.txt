@@ -76,3 +76,16 @@ C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\ArcanoidForm\ob
 C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.exe
 C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.pdb
 C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.csproj.CopyComplete
+C:\arcanoidc#\Arcanoid\ArcanoidForm\bin\Debug\ArcanoidForm.exe.config
+C:\arcanoidc#\Arcanoid\ArcanoidForm\bin\Debug\ArcanoidForm.exe
+C:\arcanoidc#\Arcanoid\ArcanoidForm\bin\Debug\ArcanoidForm.pdb
+C:\arcanoidc#\Arcanoid\ArcanoidForm\bin\Debug\Arcanoid.dll
+C:\arcanoidc#\Arcanoid\ArcanoidForm\bin\Debug\Arcanoid.pdb
+C:\arcanoidc#\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.csproj.AssemblyReference.cache
+C:\arcanoidc#\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.Form1.resources
+C:\arcanoidc#\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.Properties.Resources.resources
+C:\arcanoidc#\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.csproj.GenerateResource.cache
+C:\arcanoidc#\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.csproj.CoreCompileInputs.cache
+C:\arcanoidc#\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.csproj.CopyComplete
+C:\arcanoidc#\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.exe
+C:\arcanoidc#\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.pdb
